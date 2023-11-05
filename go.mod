@@ -1,3 +1,3 @@
-module studentgit.kata.academy/Gondir/mymath
+module mymath
 
 go 1.20
